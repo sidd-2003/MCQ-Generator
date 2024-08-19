@@ -2,5 +2,7 @@ langchain
 python-dotenv
 groq
 langchain_groq
+streamlit
+PyPDF2
 
--e
+-e .
