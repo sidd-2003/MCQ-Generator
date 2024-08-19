@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mcqgenrator
+Version: 0.0.1
+Author: iddhant Dnyane
+Author-email: siddhantdyane2003@gmail.com
+Requires-Dist: groq
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
