@@ -1,11 +1,11 @@
 MCQ,Choices,Correct
-What is Artificial Intelligence in its broadest sense?,a: Intelligence exhibited by humans | b: Intelligence exhibited by machines | c: Intelligence exhibited by animals | d: Intelligence exhibited by robots,b
-What is the primary goal of machines with AI?,a: To minimize their chances of achieving defined goals | b: To maximize their chances of achieving defined goals | c: To ignore their environment | d: To learn from humans,b
-Which of the following is an example of a high-profile application of AI?,a: Google Maps | b: Google Search | c: Microsoft Office | d: Facebook,b
-Who is considered the first person to conduct substantial research in the field of machine intelligence?,a: John McCarthy | b: Marvin Minksy | c: Alan Turing | d: Claude Shannon,c
-When was Artificial Intelligence founded as an academic discipline?,a: 1950 | b: 1956 | c: 1960 | d: 1962,b
-What is the term used to describe the periods of disappointment and loss of funding in AI research?,a: AI winter | b: AI summer | c: AI spring | d: AI autumn,a
-What led to the AI boom of the early 2020s?,a: The development of deep learning | b: The development of transformer architecture | c: Both A and B | d: Neither A nor B,c
-"Where are most companies, universities, and laboratories pioneering significant advances in artificial intelligence based?",a: United States | b: China | c: Europe | d: India,a
-What is the term used to describe machines that exhibit intelligence?,a: AIs | b: Machines | c: Robots | d: Computers,a
-Why are many AI applications not perceived as AI?,a: Because they are not useful | b: Because they are not common | c: Because once something becomes useful enough and common enough it's not labeled AI anymore | d: Because they are not intelligent,c
+What is the broadest sense of Artificial Intelligence (AI)?,a: Intelligence exhibited by humans | b: Intelligence exhibited by machines | c: Intelligence exhibited by animals | d: Intelligence exhibited by plants,b
+What is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions?,a: Data Science | b: Machine Learning | c: Artificial Intelligence | d: Computer Vision,c
+What is an example of a high-profile application of AI?,a: Autonomous vehicles | b: Web search engines | c: Recommendation systems | d: All of the above,d
+Who is considered the first person to conduct substantial research in the field of AI?,a: Alan Turing | b: John McCarthy | c: Marvin Minsky | d: Claude Shannon,a
+When was Artificial Intelligence founded as an academic discipline?,a: 1950 | b: 1956 | c: 1960 | d: 1970,b
+What is the term for the period of disappointment and loss of funding in the field of AI?,a: AI boom | b: AI winter | c: AI spring | d: AI summer,b
+What technique surpassed all previous AI techniques after 2012?,a: Deep learning | b: Machine learning | c: Neural networks | d: Computer vision,a
+What architecture led to the AI boom of the early 2020s?,a: Transformer architecture | b: Deep learning architecture | c: Machine learning architecture | d: Neural network architecture,a
+"Where are many companies, universities, and laboratories pioneering significant advances in artificial intelligence?",a: Europe | b: Asia | c: United States | d: Australia,c
+What happens to AI applications once they become useful and common?,a: They are labeled as AI | b: They are not labeled as AI | c: They are removed from use | d: They are replaced by humans,b
